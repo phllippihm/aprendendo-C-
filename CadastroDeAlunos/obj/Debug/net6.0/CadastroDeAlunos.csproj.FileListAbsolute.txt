@@ -1,0 +1,15 @@
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\CadastroDeAlunos.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\CadastroDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\CadastroDeAlunos.AssemblyInfoInputs.cache
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\CadastroDeAlunos.AssemblyInfo.cs
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\CadastroDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\CadastroDeAlunos\bin\Debug\net6.0\CadastroDeAlunos.exe
+C:\Users\phili\source\repos\CadastroDeAlunos\bin\Debug\net6.0\CadastroDeAlunos.deps.json
+C:\Users\phili\source\repos\CadastroDeAlunos\bin\Debug\net6.0\CadastroDeAlunos.runtimeconfig.json
+C:\Users\phili\source\repos\CadastroDeAlunos\bin\Debug\net6.0\CadastroDeAlunos.dll
+C:\Users\phili\source\repos\CadastroDeAlunos\bin\Debug\net6.0\CadastroDeAlunos.pdb
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\CadastroDeAlunos.dll
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\refint\CadastroDeAlunos.dll
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\CadastroDeAlunos.pdb
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\CadastroDeAlunos.genruntimeconfig.cache
+C:\Users\phili\source\repos\CadastroDeAlunos\obj\Debug\net6.0\ref\CadastroDeAlunos.dll
